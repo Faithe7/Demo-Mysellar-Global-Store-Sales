@@ -7,21 +7,21 @@ Data-driven decision-making is a fundamental process for organizations aiming to
 Mysellar is multinational retail corporation that operates a chain of stores, online and offline, on all continents.
 The dataset has sales data from January 2019 to March 2021. It consists originally of 13 columns which was further modified to 15 columns for the purpose of this analysis;
 
-Region: Continents where order and sales were made
-Country: Countries where order and sales were made
-Category: Types of Products sold by the store
-Sales Channel: Medium of sales
-Order Priority: Rank of order according to priority
-Order Date: Date in which the order was placed
-Order ID: Unique identifier for each order placed by a customer
-Ship Date: Date in which the order was shipped
-Units Sold: Volume of orders
-Unit Price: Price of product in USD
-Unit Cost: Cost of product in USD
-Total Revenue: Total sales in USD
-Total Cost: Total sales in USD
-Profit: Profit in USD
-GDP: GDP of each Sub-Saharan African Countries in USD
+- Region: Continents where order and sales were made
+- Country: Countries where order and sales were made
+- Category: Types of Products sold by the store
+- Sales Channel: Medium of sales
+- Order Priority: Rank of order according to priority
+- Order Date: Date in which the order was placed
+- Order ID: Unique identifier for each order placed by a customer
+- Ship Date: Date in which the order was shipped
+- Units Sold: Volume of orders
+- Unit Price: Price of product in USD
+- Unit Cost: Cost of product in USD
+- Total Revenue: Total sales in USD
+- Total Cost: Total sales in USD
+- Profit: Profit in USD
+- GDP: GDP of each Sub-Saharan African Countries in USD
 
 ## Objectives
 
