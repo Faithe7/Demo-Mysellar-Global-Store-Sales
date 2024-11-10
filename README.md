@@ -43,7 +43,8 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 - Data Visualization
 
 ## Datasource
-<a href = "https://resagratia.com/library/data-analytics-portfolio-and-capstone-project"> Resagratia </a>
+<a href = "https://resagratia.com/library/data-analytics-portfolio-and-capstone-project"> Resagratia </a> 
+
 <a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipedia </a>
 
 ## Data Model
