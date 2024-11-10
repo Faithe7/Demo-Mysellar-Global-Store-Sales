@@ -38,6 +38,7 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 - Data Transformation with Powery Query
 - Data Modelling
 - Bookmarks
+- Slicers for interactive filtering
 - Report Automation
 - Data Visualization
 
@@ -69,9 +70,17 @@ Globally, the Total Revenue made between 2019 - 2021 is $1.32 billion with a Tot
 - **Bottom Countries by Unit Sold:** The Gambia, Liechtenstein, Zimbabwe, the Marshall Islands, and Cape Verde account for the lowest decline in sales volumes, highlighting a significant opportunity for strategic improvements and market engagement.
 
 ### Key Metric
-It is reasonable to expect that countries with higher economic productivity would generate greater sales. However, this analysis shows that there is no significant correlation between total revenue generated and the GDP of Sub-Saharan African countries. This indicates a need for deeper analysis to understand the unique factors influencing sales performance in these nations.
+It is reasonable to expect that countries with higher economic productivity would generate greater sales. However, this analysis shows that there is no significant correlation between total revenue generated and the GDP of Sub-Saharan African countries. This indicates a need for deeper analysis to understand the unique factors influencing sales performance in these countries.
 
 ## Recommendations
+- **Expansion of Sales Channel to Untapped Regions:** It is essential to extend sales operations to South America, as this region currently shows no sales activity in order to capitalize on potential growth opportunities.
+- **Prioritize High-Performing Regions:** Sales Operations should be strengthened in Sub-Saharan Africa and Europe, as substantial revenue and profit potential is evident in those regions. This can be achieved through a reduction in shipping times, costs and sales delays to secure a competitive advantage and drive even greater success. 
+- **Boost Product Offerings in Under-Performing Regions:** Identify and address factors contributing to suboptimal in Central America, Australia Oceania and North America. Customize product offerings and marketing strategies to resonate with consumer preferences in order to significantly boost market performance and accelerate sales growth in these regions. 
+- **Improve Shipping Process:** Streamlining shipping times to eliminate unnecessary wait periods and sales delays will significantly boost customer satisfaction and foster lasting loyalty. 
+- **Leverage Monthly Trends for Maximum Impact:** Examine monthly trends to pinpoint crucial performance indicators that are essential for improving sales processes and developing targeted marketing strategies aimed at achieving the best results.
+
+## Conclusion
+This sales analysis delivers crucial insights into the performance of the MySellar Global Store across various geographic regions. By examining key trends and metrics, it reflects the untapped potential within each market. The findings from this dashboard are not merely informative; they are pivotal in shaping strategic decisions designed to boost profitability and operational efficiency. By leveraging these insights, MySellar can seize profitable opportunities, address inefficiencies, support sustainable expansion and drive sustainable growth in the global market, ultimately ensuring long-term success and competitiveness.
 
 ## Download
 <a href = "https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/Eliot_Faith_Mysellar_Global_Sales_Project.pbix"> Download the Power BI file </a>
