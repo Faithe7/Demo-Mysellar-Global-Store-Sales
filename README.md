@@ -42,6 +42,7 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 
 ## Data Model
 The data was first normalized in Excel, then transformed in Power Query. Also, A date table was created in Power Query. 
+
 ![Data Model]https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_data_model.PNG
 
 ### Dashboard Insights
