@@ -24,7 +24,10 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 - GDP: GDP of each Sub-Saharan African Countries in USD
 
 ## Objectives
-
+**- Analyze Revenue Trends:** Examine the annual revenue and profit changes from 2019 to 2021 across regions, countries, sales channels, and product categories
+**- Examine Shipping Trends:** Evaluate the average shipping duration across regions and gather insights on logistics performance.
+**- Highlight Key Metrics:** Focus on metrics such as the correlation between total revenue and GDP of Sub-Saharan African countries. 
+**- Visualize Data for Better Understanding:** Utilize Excel and Power BI to present the Mysellar Global Store Sales effectively, including line charts to illustrate the monthly trend of revenue, profit, and order volume and display the monthly percentage change in revenue from 2019 - 2021.
 
 ## Tools
 - Power BI
@@ -46,15 +49,30 @@ The data was first normalized in Excel, then transformed in Power Query. Also, A
 
 ![Data Model](https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_data_model.PNG)
 
-### Dashboard Insights
-### Overview
+## Dashboard Insights
+### Global Sales Overview
 Globally, the Total Revenue made between 2019 - 2021 is $1.32 billion with a Total Profit of $388.94 million and Profit Margin of 29.36%. 5 Million products were ordered and delivered within an average shipping time of 9days.
-![Overview Dashboard](https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_main.PNG)
 
-### GDP by Sector Analysis
+![Overview Dashboard](https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_main.PNG) 
+
+**- Total Revenue:** MySellar Global Store has generated global revenues of $1.32 billion, yielding a profit of $388.94 million and profit margin of 29.36%.
+**- Revenue and Profit by Region:** Sub-Saharan Africa generated the highest revenue at $321 million and profit at $90 million.
+**- Profit by Sales Channel:** Offline sales achieved an impressive total of $676 million, highlighting the strength of traditional retail channels.
+**- Shortest Shipping Duration:** Europe guarantees the shortest shipping time, with deliveries completed in just 8 days.
+
+### Product Category Performance
+**- Top Performing Categories:** Office supplies, household items, and cosmetics accounted for the highest sales across multiple regions in 2019. However, a significant decline was observed in 2020 and 2021, with office supplies leading the sales followed by cosmetics and baby food.
+**- Units Sold (Order Volume) by Region:** Europe has the highest units sold at 1.19 million, followed closely by Sub-Saharan Africa at 1.15 million. This competitive performance highlights the growing demand in these regions. 
+
+### Country-Level Insights
+**- Top Countries by Unit Sold:** Vanuatu, Australia, Russia, Tunisia, and Myanmar are leading countries in sales, demonstrating their outstanding market performance. 
+**- Bottom Countries by Unit Sold:** The Gambia, Liechtenstein, Zimbabwe, the Marshall Islands, and Cape Verde account for the lowest decline in sales volumes, highlighting a significant opportunity for strategic improvements and market engagement.
+
+### Key Metric
+It is reasonable to expect that countries with higher economic productivity would generate greater sales. However, this analysis shows that there is no significant correlation between total revenue generated and the GDP of Sub-Saharan African countries. This indicates a need for deeper analysis to understand the unique factors influencing sales performance in these nations.
 
 ## Recommendations
 
 ## Download
-
+<a href = "https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/Eliot_Faith_Mysellar_Global_Sales_Project.pbix"> Download the Power BI file </a>
 
