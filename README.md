@@ -25,6 +25,7 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 
 ## Objectives
 
+
 ## Tools
 - Power BI
 - Excel
@@ -47,6 +48,8 @@ The data was first normalized in Excel, then transformed in Power Query. Also, A
 
 ### Dashboard Insights
 ### Overview
+Globally, the Total Revenue made between 2019 - 2021 is $1.32 billion with a Total Profit of $388.94 million and Profit Margin of 29.36%. 5 Million products were ordered and delivered within an average shipping time of 9days.
+![Overview Dashboard](https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_main.PNG)
 
 ### GDP by Sector Analysis
 
