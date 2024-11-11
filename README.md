@@ -5,7 +5,7 @@ Data-driven decision-making is a fundamental process for organizations aiming to
 
 ## About the Dataset
 Mysellar is multinational retail corporation that operates a chain of stores, online and offline, on all continents.
-The dataset has sales data from January 2019 to March 2021. It consists originally of 13 columns which was further modified to 15 columns for the purpose of this analysis;
+The dataset has sales data from January 2019 to March 2021. It consists originally of 13 columns which was further modified to 15 columns with an additional dataset for the purpose of this analysis;
 
 - **Region:** Continents where order and sales were made
 - **Country:** Countries where order and sales were made
@@ -24,14 +24,14 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 - **GDP:** GDP of each Sub-Saharan African Countries in USD
 
 ## Objectives
-- **Analyze Revenue Trends:** Examine the annual revenue and profit changes from 2019 to 2021 across regions, countries, sales channels, and product categories
+- **Analyze Revenue Trends:** Examine the annual revenue and profit changes from 2019 to 2021 across regions, countries, sales channels, and product categories.
 - **Examine Shipping Trends:** Evaluate the average shipping duration across regions and gather insights on logistics performance.
 - **Highlight Key Metrics:** Focus on metrics such as the correlation between total revenue and GDP of Sub-Saharan African countries. 
 - **Visualize Data for Better Understanding:** Utilize Excel and Power BI to present the Mysellar Global Store Sales effectively, including line charts to illustrate the monthly trend of revenue, profit, and order volume and display the monthly percentage change in revenue from 2019 - 2021.
 
 ## Tools
-- Power BI
 - Excel
+- Power BI
 
 ## Technique and Skills
 - Data Normalization
@@ -48,17 +48,16 @@ The dataset has sales data from January 2019 to March 2021. It consists original
 <a href = "https://en.wikipedia.org/wiki/List_of_African_countries_by_GDP_(nominal)"> Wikipedia </a>
 
 ## Data Model
-The data was first normalized in Excel, then transformed in Power Query. Also, A date table was created in Power Query. 
+The data was first normalized in Excel, then transformed in Power Query. Also, A date table was created in Power Query. Moreover, an additional GDP dataset was retrieved, normalized in Excel, transformed in Power Query and imported into Power BI. Finally relationships were created between the tables in the dataset. 
 
 ![Data Model](https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_data_model.PNG)
 
 ## Dashboard Insights
 ### Global Sales Overview
-Globally, the Total Revenue made between 2019 - 2021 is $1.32 billion with a Total Profit of $388.94 million and Profit Margin of 29.36%. 5 Million products were ordered and delivered within an average shipping time of 9days.
+Globally, the Total Revenue made between 2019 - 2021 is $1.32 billion with a Total Profit of $388.94 million and Profit Margin of 29.36%. 5 Million products were ordered and delivered within an average shipping time of 9 days.
 
 ![Overview Dashboard](https://github.com/Faithe7/Demo-Mysellar-Global-Store-Sales/blob/main/images/mysellar_sales_portfolio_main.PNG) 
 
-- **Total Revenue:** MySellar Global Store has generated global revenues of $1.32 billion, yielding a profit of $388.94 million and profit margin of 29.36%.
 - **Revenue and Profit by Region:** Sub-Saharan Africa generated the highest revenue at $321 million and profit at $90 million.
 - **Profit by Sales Channel:** Offline sales achieved an impressive total of $676 million, highlighting the strength of traditional retail channels.
 - **Shortest Shipping Duration:** Europe guarantees the shortest shipping time, with deliveries completed in just 8 days.
@@ -72,7 +71,7 @@ Globally, the Total Revenue made between 2019 - 2021 is $1.32 billion with a Tot
 - **Bottom Countries by Unit Sold:** The Gambia, Liechtenstein, Zimbabwe, the Marshall Islands, and Cape Verde account for the lowest decline in sales volumes, highlighting a significant opportunity for strategic improvements and market engagement.
 
 ### Key Metric
-It is reasonable to expect that countries with higher economic productivity would generate greater sales. However, this analysis shows that there is no significant correlation between total revenue generated and the GDP of Sub-Saharan African countries. This indicates a need for deeper analysis to understand the unique factors influencing sales performance in these countries.
+It is plausible to expect that countries with higher economic productivity would generate greater sales. However, this analysis shows that there is no significant correlation between total revenue generated in Sub-Saharan African Countries and their GDP. This indicates a need for deeper analysis to understand the unique factors influencing sales performance in these countries.
 
 ## Recommendations
 - **Expansion of Sales Channel to Untapped Regions:** It is essential to extend sales operations to South America, as this region currently shows no sales activity in order to capitalize on potential growth opportunities.
